@@ -1,0 +1,17 @@
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/Creador.deps.json
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/Creador.runtimeconfig.json
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/Creador.runtimeconfig.dev.json
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/Creador.dll
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/ref/Creador.dll
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/Creador.pdb
+/Users/chaos/Documents/Desarrollo/net/Creador/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.csprojAssemblyReference.cache
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.AssemblyInfoInputs.cache
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.AssemblyInfo.cs
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.csproj.CoreCompileInputs.cache
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.csproj.CopyComplete
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.dll
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/ref/Creador.dll
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.pdb
+/Users/chaos/Documents/Desarrollo/net/Creador/obj/Debug/net5.0/Creador.genruntimeconfig.cache
