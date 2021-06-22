@@ -14,7 +14,7 @@
         "outputPath": "/Users/chaos/Documents/Desarrollo/net/Creador/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chaos/.nuget/NuGet/NuGet.Config"
+          "/Users/chaos/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

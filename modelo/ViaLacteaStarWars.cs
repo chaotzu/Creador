@@ -16,6 +16,12 @@ namespace Creador
 
     public partial class Planeta
     {
+        public Planeta(String nombre)
+        {
+            Name = nombre;
+        }
+        //TODO: CREAR CONSTRUCTORES CON TODOS LOS ATRIBUTOS
+
         [JsonProperty("name")]
         public string Name { get; set; }
 
